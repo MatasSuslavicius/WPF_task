@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuRVxEJEEfz+x2/xDA1NnoGnnDpzDhYIlal6o3lin8/6yf/PIQFrXchLpqgLWNJmgMUAQ2T7nEWBjQLLpOoaKQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\UVS\\UVS_task\\UVS_task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matas\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\matas\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\matas\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\matas\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\matas\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\matas\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\matas\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\matas\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\matas\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
